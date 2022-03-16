@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>Page</title>
+</head>
+<body>
+	<h1>This page for Practise</h1>
+	<p>lorem100</p>
+</body>
+</html>

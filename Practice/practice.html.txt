@@ -1,0 +1,22 @@
+<html>
+<head>
+<title>Practice Page</title>
+</head>
+<body>
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Roll No</th>
+		<th>Address</th>
+		<th>Contect Number</th>
+	</tr>
+
+	<tr>
+		<td>Karan Kapoor</td>
+		<td>018</td>
+		<td>Delhi</td>
+		<td>9650654775</td>
+	</tr>
+</table>
+</body>
+</html>
